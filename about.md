@@ -5,8 +5,8 @@ description: 'About the Exodus Church'
 
 ::info
 ---
-id: about
-title: About Us
+id: who-are-we
+title: Who are we
 image:
     url: '/images/main/about.png'
 # bodyButtons:

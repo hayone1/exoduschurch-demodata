@@ -16,8 +16,8 @@ image:
   url: /images/welcome.png
 positions:
   image: order-first
-id: community
-title: Community
+id: family
+title: Family
 ---
 At the Exodus church, we're big on community and every member feels known and loved.
 
